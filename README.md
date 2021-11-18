@@ -1,2 +1,3 @@
 # cookie-technique
-:cookie: :tomato: A cookie clicker mod for pomodoro technique.
+
+:cookie: :heart: :tomato: A cookie clicker mod for meeting pomodoro technique.
