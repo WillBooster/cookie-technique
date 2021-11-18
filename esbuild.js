@@ -1,32 +1,22 @@
 const { build } = require('esbuild');
-const { dtsPlugin } = require('esbuild-plugin-d.ts');
 
 Promise.all([
   build({
     bundle: true,
     entryPoints: ['src/index.ts'],
-    format: 'esm',
+    format: 'iife',
     minify: true,
-    outfile: 'dist/index.min.mjs',
-    platform: 'node',
-    plugins: [dtsPlugin()],
+    outfile: 'dist/index.min.js',
+    platform: 'browser',
     sourcemap: true,
   }),
   build({
     bundle: true,
     entryPoints: ['src/index.ts'],
-    format: 'cjs',
-    minify: true,
-    outfile: 'dist/index.min.cjs',
-    platform: 'node',
-    sourcemap: true,
-  }),
-  build({
-    bundle: true,
-    entryPoints: ['src/cli.ts'],
-    minify: true,
-    outfile: 'dist/cli.min.cjs',
-    platform: 'node',
+    format: 'iife',
+    minify: false,
+    outfile: 'dist/index.js',
+    platform: 'browser',
     sourcemap: true,
   }),
 ]).then();
