@@ -34,13 +34,13 @@
     "@types/eslint": "8.2.1",
     "@types/micromatch": "4.0.2",
     "@types/prettier": "2.4.2",
-    "@typescript-eslint/eslint-plugin": "5.8.0",
-    "@typescript-eslint/parser": "5.8.0",
+    "@typescript-eslint/eslint-plugin": "5.8.1",
+    "@typescript-eslint/parser": "5.8.1",
     "@willbooster/eslint-config-ts": "6.5.0",
     "@willbooster/prettier-config": "6.5.0",
     "@willbooster/renovate-config": "6.5.0",
-    "esbuild": "0.14.8",
-    "esbuild-register": "3.2.1",
+    "esbuild": "0.14.9",
+    "esbuild-register": "3.3.1",
     "eslint": "8.5.0",
     "eslint-config-prettier": "8.3.0",
     "eslint-import-resolver-node": "0.3.6",
@@ -53,5 +53,5 @@
     "sort-package-json": "1.53.1",
     "typescript": "4.5.4"
   },
-  "packageManager": "yarn@3.2.0-rc.8"
+  "packageManager": "yarn@3.2.0-rc.9"
 }
