@@ -34,8 +34,8 @@
     "@types/eslint": "8.4.1",
     "@types/micromatch": "4.0.2",
     "@types/prettier": "2.6.0",
-    "@typescript-eslint/eslint-plugin": "5.20.0",
-    "@typescript-eslint/parser": "5.20.0",
+    "@typescript-eslint/eslint-plugin": "5.21.0",
+    "@typescript-eslint/parser": "5.21.0",
     "@willbooster/eslint-config-ts": "6.5.1",
     "@willbooster/prettier-config": "6.5.1",
     "@willbooster/renovate-config": "6.5.1",
@@ -46,12 +46,12 @@
     "eslint-import-resolver-node": "0.3.6",
     "eslint-plugin-import": "2.26.0",
     "husky": "7.0.4",
-    "lint-staged": "12.4.0",
+    "lint-staged": "12.4.1",
     "micromatch": "4.0.5",
     "pinst": "2.1.6",
     "prettier": "2.6.2",
     "sort-package-json": "1.55.0",
-    "typescript": "4.6.3"
+    "typescript": "4.6.4"
   },
   "packageManager": "yarn@3.2.0"
 }
