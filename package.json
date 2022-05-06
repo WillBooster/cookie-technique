@@ -41,7 +41,7 @@
     "@willbooster/renovate-config": "6.5.1",
     "esbuild": "0.14.38",
     "esbuild-register": "3.3.2",
-    "eslint": "8.14.0",
+    "eslint": "8.15.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-import-resolver-node": "0.3.6",
     "eslint-plugin-import": "2.26.0",
