@@ -139,9 +139,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 18.0.1
-  resolution: "@types/node@npm:18.0.1"
-  checksum: be14b251c54cc2b4ca78ac6eadf2fe5e831e487f2e17848f21d576295945b538271dcc674d0bba582b3f8d95b84f6826e99b6ba4710c76f165a8bdd4d4f0618e
+  version: 18.0.3
+  resolution: "@types/node@npm:18.0.3"
+  checksum: 5dec59fbbc1186c808b53df1ca717dad034dbd6a901c75f5b052c845618b531b05f27217122c6254db99529a68618e4cfc534ae3dbf4e88754e9e572df80defa
   languageName: node
   linkType: hard
 
@@ -1393,11 +1393,11 @@ __metadata:
   linkType: hard
 
 "globals@npm:^13.15.0":
-  version: 13.15.0
-  resolution: "globals@npm:13.15.0"
+  version: 13.16.0
+  resolution: "globals@npm:13.16.0"
   dependencies:
     type-fest: ^0.20.2
-  checksum: 383ade0873b2ab29ce6d143466c203ed960491575bc97406395e5c8434026fb02472ab2dfff5bc16689b8460269b18fda1047975295cd0183904385c51258bae
+  checksum: e571b28462b8922a29ac78c8df89848cfd5dc9bdd5d8077440c022864f512a4aae82e7561a2f366337daa86fd4b366aec16fd3f08686de387e4089b01be6cb14
   languageName: node
   linkType: hard
 
