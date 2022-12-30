@@ -235,10 +235,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/cookieclicker@npm:2.48.0":
-  version: 2.48.0
-  resolution: "@types/cookieclicker@npm:2.48.0"
-  checksum: eea003e3d37d9322a5073e377790a5eab004d93a9f989fc56f04938b6ba444483b16a4fb4371051dd4986db66bf7624aad12d155ab53f6b983e759e5c9c7de6e
+"@types/cookieclicker@npm:2.48.1":
+  version: 2.48.1
+  resolution: "@types/cookieclicker@npm:2.48.1"
+  checksum: 780e563aded411c294ffbc214750c5115cfa42b6ca49be751fcac6a60faba11fc136bc02fd7052b256536a568ef9fa4cb05c6864c3ad41996aa73eb454043856
   languageName: node
   linkType: hard
 
@@ -728,7 +728,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "cookie-pomodoro@workspace:."
   dependencies:
-    "@types/cookieclicker": 2.48.0
+    "@types/cookieclicker": 2.48.1
     "@types/eslint": 8.4.10
     "@types/micromatch": 4.0.2
     "@types/prettier": 2.7.2
