@@ -30,7 +30,7 @@
   },
   "prettier": "@willbooster/prettier-config",
   "devDependencies": {
-    "@types/cookieclicker": "2.52.1",
+    "@types/cookieclicker": "2.52.2",
     "@types/eslint": "8.44.2",
     "@types/micromatch": "4.0.2",
     "@types/prettier": "2.7.3",
