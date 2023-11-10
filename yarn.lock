@@ -267,20 +267,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/cookieclicker@npm:2.52.3":
-  version: 2.52.3
-  resolution: "@types/cookieclicker@npm:2.52.3"
-  checksum: 28e673def77384801c797043200fe874e08921b3433ddc87a89cebdfc3c4eef898842e11821900e25dc94ece8458c8e55ef78bd56a55423724629858f56690cb
+"@types/cookieclicker@npm:2.52.4":
+  version: 2.52.4
+  resolution: "@types/cookieclicker@npm:2.52.4"
+  checksum: e65c7628fbc021ede9fc676811cde80cd75e5dbf481f7def532a2159672bc2ac0e1a2a146e8ce6ff92a48ddd6b28e4134c73883367f7bb90be2849095d821be6
   languageName: node
   linkType: hard
 
-"@types/eslint@npm:8.44.6":
-  version: 8.44.6
-  resolution: "@types/eslint@npm:8.44.6"
+"@types/eslint@npm:8.44.7":
+  version: 8.44.7
+  resolution: "@types/eslint@npm:8.44.7"
   dependencies:
     "@types/estree": "*"
     "@types/json-schema": "*"
-  checksum: ed8de582ab3dbd7ec0bf97d41f4f3de28dd8a37fc48bc423e1c406bbb70d1fd8c4175ba17ad6495ef9ef99a43df71421277b7a2a0355097489c4c4cf6bb266ff
+  checksum: 72a52f74477fbe7cc95ad290b491f51f0bc547cb7ea3672c68da3ffd3fb21ba86145bc36823a37d0a186caedeaee15b2d2a6b4c02c6c55819ff746053bd28310
   languageName: node
   linkType: hard
 
@@ -315,12 +315,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/micromatch@npm:4.0.4":
-  version: 4.0.4
-  resolution: "@types/micromatch@npm:4.0.4"
+"@types/micromatch@npm:4.0.5":
+  version: 4.0.5
+  resolution: "@types/micromatch@npm:4.0.5"
   dependencies:
     "@types/braces": "*"
-  checksum: 0712a3c001094477e0ba9315f5df88da33eb53ce0abfc191db435c8423be3ad9a64773deb8adf0bbe925848605b695725f57339e4ab454201f80ae087c1e6e1e
+  checksum: 1e29a59a05ea604e0c72049c5c37220452c28de0a9e2f03d4e230a4d55295e2c1caf64282889c8d0f3d9149746412f1a9b53663867974f9076da96563cc30835
   languageName: node
   linkType: hard
 
@@ -801,9 +801,9 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "cookie-pomodoro@workspace:."
   dependencies:
-    "@types/cookieclicker": 2.52.3
-    "@types/eslint": 8.44.6
-    "@types/micromatch": 4.0.4
+    "@types/cookieclicker": 2.52.4
+    "@types/eslint": 8.44.7
+    "@types/micromatch": 4.0.5
     "@types/prettier": 2.7.3
     "@typescript-eslint/eslint-plugin": 5.62.0
     "@typescript-eslint/parser": 5.62.0
