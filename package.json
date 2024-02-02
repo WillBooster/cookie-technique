@@ -39,7 +39,7 @@
     "@willbooster/eslint-config-ts": "6.5.1",
     "@willbooster/prettier-config": "6.5.1",
     "@willbooster/renovate-config": "6.5.1",
-    "esbuild": "0.19.12",
+    "esbuild": "0.20.0",
     "esbuild-register": "3.5.0",
     "eslint": "8.56.0",
     "eslint-config-prettier": "8.10.0",
@@ -53,5 +53,5 @@
     "sort-package-json": "1.57.0",
     "typescript": "4.9.5"
   },
-  "packageManager": "yarn@3.7.0"
+  "packageManager": "yarn@3.8.0"
 }
