@@ -32,7 +32,7 @@
   "devDependencies": {
     "@types/cookieclicker": "2.52.5",
     "@types/eslint": "8.56.10",
-    "@types/micromatch": "4.0.7",
+    "@types/micromatch": "4.0.8",
     "@types/prettier": "2.7.3",
     "@typescript-eslint/eslint-plugin": "5.62.0",
     "@typescript-eslint/parser": "5.62.0",

@@ -315,12 +315,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/micromatch@npm:4.0.7":
-  version: 4.0.7
-  resolution: "@types/micromatch@npm:4.0.7"
+"@types/micromatch@npm:4.0.8":
+  version: 4.0.8
+  resolution: "@types/micromatch@npm:4.0.8"
   dependencies:
     "@types/braces": "*"
-  checksum: 19863014022377a6d16f98320066bad3b7e65b693a04585b038634a7a56ffa2fb55517a972ad7f16b89037a8edcda6e339d2c360ccf344f335242024267426cc
+  checksum: 9ff27126b962642a2323e16bd9f15a786f2e9905cfa9d35ab24397052e8fa5f3c746d290cd1580d164a1326d5526d552f3db499a83a7f1891e8cda6bb1d8a78e
   languageName: node
   linkType: hard
 
@@ -810,7 +810,7 @@ __metadata:
   dependencies:
     "@types/cookieclicker": 2.52.5
     "@types/eslint": 8.56.10
-    "@types/micromatch": 4.0.7
+    "@types/micromatch": 4.0.8
     "@types/prettier": 2.7.3
     "@typescript-eslint/eslint-plugin": 5.62.0
     "@typescript-eslint/parser": 5.62.0
