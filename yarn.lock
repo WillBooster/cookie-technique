@@ -281,13 +281,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/eslint@npm:8.56.11":
-  version: 8.56.11
-  resolution: "@types/eslint@npm:8.56.11"
+"@types/eslint@npm:8.56.12":
+  version: 8.56.12
+  resolution: "@types/eslint@npm:8.56.12"
   dependencies:
     "@types/estree": "*"
     "@types/json-schema": "*"
-  checksum: 181a7f11bdc70523142554e4751b8571fa546f71f25fdc363298744857a01e830c9c009a61e81c1a0fd4f01a46f91d6d7098f582142fec94da8f86b94bb50b7a
+  checksum: 0f7710ee02a256c499514251f527f84de964bb29487db840408e4cde79283124a38935597636d2265756c34dd1d902e1b00ae78930d4a0b55111909cb7b80d84
   languageName: node
   linkType: hard
 
@@ -816,7 +816,7 @@ __metadata:
   resolution: "cookie-pomodoro@workspace:."
   dependencies:
     "@types/cookieclicker": 2.52.5
-    "@types/eslint": 8.56.11
+    "@types/eslint": 8.56.12
     "@types/micromatch": 4.0.9
     "@types/prettier": 2.7.3
     "@typescript-eslint/eslint-plugin": 5.62.0
