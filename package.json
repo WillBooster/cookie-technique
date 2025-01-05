@@ -33,7 +33,7 @@
     "@types/cookieclicker": "2.52.5",
     "@types/eslint": "8.56.12",
     "@types/micromatch": "4.0.9",
-    "@types/prettier": "2.7.3",
+    "@types/prettier": "3.0.0",
     "@typescript-eslint/eslint-plugin": "5.62.0",
     "@typescript-eslint/parser": "5.62.0",
     "@willbooster/eslint-config-ts": "6.5.1",
