@@ -46,7 +46,7 @@
     "eslint-import-resolver-node": "0.3.9",
     "eslint-plugin-import": "2.31.0",
     "husky": "7.0.4",
-    "lint-staged": "14.0.1",
+    "lint-staged": "15.4.3",
     "micromatch": "4.0.8",
     "pinst": "2.1.6",
     "prettier": "3.4.2",
